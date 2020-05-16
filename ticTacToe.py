@@ -90,7 +90,7 @@ def diag_check(board, token):
 #driver code
 pygame.init()
 screen = pygame.display.set_mode((500,500))
-pygame.display.set_caption("Tic- Tac- Toe")
+pygame.display.set_caption("Tic-Tac-Toe")
 
 chars = pygame.font.Font('Fipps-Regular.otf', 50)
 res_font = pygame.font.Font('Fipps-Regular.otf', 30)
